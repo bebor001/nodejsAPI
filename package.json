@@ -1,0 +1,17 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bernd Borowski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
